@@ -1,0 +1,15 @@
+{
+  "Help": "F1",
+  "Checkout": "F2,CTRL+Q",
+  "Search": "F3",
+  "New": "F4",
+  "Refresh": "F5",
+  "Scan": "F6",
+  "Customize": "F7",
+  "Edit": "F8",
+  "Delete": "F9",
+  "Last Txn": "F10",
+  "Add Qty": "CTRL+F11",
+  "Mobile Orders": "F11",
+  "Logout": "F12"
+}
